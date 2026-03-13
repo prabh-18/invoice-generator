@@ -1,6 +1,0 @@
-{
-  "tommy": {
-    "phone": "9384937493",
-    "email": "nduef@gmail.fif"
-  }
-}

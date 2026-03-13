@@ -1,5 +1,0 @@
-First line of notes.
-Second line of notes.
-Third line of notes.
-Fourth line (appended).
-Fifth line (appended).
